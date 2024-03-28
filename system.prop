@@ -1,0 +1,4 @@
+ro.surface_flinger.supports_background_blur=1
+ro.miui.backdrop_sampling_enabled=true
+ro.miui.product.home=com.miui.home
+ro.config.low_ram.threshold_gb=false
